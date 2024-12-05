@@ -1,4 +1,4 @@
-# Desi-Explorer
+# Desi-Explorer (UI/UX Project)
 Your go-to mobile app for an authentic exploration of India's diverse states and cities.
 - [**Prototype link**](https://www.figma.com/proto/CxGXssaxbQ3V9K9s2EYcn1/desi-explorer?node-id=94-31&t=E92RvVhXkv03W05Z-1)
 ### About the project
